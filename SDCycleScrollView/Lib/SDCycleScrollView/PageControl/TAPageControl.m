@@ -34,12 +34,12 @@ static BOOL const kDefaultShouldResizeFromCenter = YES;
 /**
  *  Default spacing between dots
  */
-static NSInteger const kDefaultSpacingBetweenDots = -4;
+static NSInteger const kDefaultSpacingBetweenDots = -10;
 
 /**
  *  Default dot size
  */
-static CGSize const kDefaultDotSize = {8, 8};
+static CGSize const kDefaultDotSize = {20, 8};
 
 
 @interface TAPageControl()
